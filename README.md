@@ -1,4 +1,4 @@
-# Project Lily – AI Dashboard Generator
+# InsightIq – AI Dashboard Generator
 
 InsightIq is a Python-based application that automatically generates an interactive dashboard from uploaded datasets.
 
